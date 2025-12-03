@@ -1,5 +1,5 @@
-# Welcome to My Scholastic Portfolio
-#### Diego Saenz  
+# Diego Saenz  
+#### Welcome to my scholastic portfolio
 *Aspiring Data Engineer | SQL, Java, C++*
 
 ![Diego Saenz](https://www.atozflags.com/cdn/shop/products/675030521W_599x.jpg?v=1681523641)
