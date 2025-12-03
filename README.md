@@ -10,4 +10,13 @@ Skills: C++/Java/SQL/SQLLite
 I began programming during my junior year of high school and have since developed proficiency across multiple programming languages, with particular expertise in SQL, Java, and C++. My career goal is to become a data engineer or analyst, leveraging my technical knowledge to design efficient solutions, optimize data workflows, and support organizations in making informed decisions. I am passionate about applying my skills to enhance business performance and collaborating with colleagues to drive continuous improvement.
 
 
+#### Current and past projects
+You can find my projects posted here:
+
+
+#### Where to reach me
+You can reach me by
+- Email: dasaenz142501@mymail.tstc.edu
+- Phone: 281-750-1921
+
 
