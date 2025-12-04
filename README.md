@@ -25,5 +25,5 @@ I began programming during my junior year of high school and have since develope
 ---
 
 ### Contact
-- 📧 Email: dasaenz142501@mymail.tstc.edu  
-- 🔗 LinkedIn: [linkedin.com/in/diego-saenz](www.linkedin.com/in/diego-saenz-0976a1231)  
+- Email: dasaenz142501@mymail.tstc.edu  
+- LinkedIn: [linkedin.com/in/diego-saenz](www.linkedin.com/in/diego-saenz-0976a1231)  
